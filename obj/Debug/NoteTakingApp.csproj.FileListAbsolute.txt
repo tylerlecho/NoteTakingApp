@@ -1,0 +1,10 @@
+C:\Users\tlech\source\repos\NoteTakingApp\obj\Debug\NoteTakingApp.csprojAssemblyReference.cache
+C:\Users\tlech\source\repos\NoteTakingApp\obj\Debug\NoteTakingApp.Form1.resources
+C:\Users\tlech\source\repos\NoteTakingApp\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\Users\tlech\source\repos\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.GenerateResource.cache
+C:\Users\tlech\source\repos\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.CoreCompileInputs.cache
+C:\Users\tlech\source\repos\NoteTakingApp\bin\Debug\NoteTakingApp.exe.config
+C:\Users\tlech\source\repos\NoteTakingApp\bin\Debug\NoteTakingApp.exe
+C:\Users\tlech\source\repos\NoteTakingApp\bin\Debug\NoteTakingApp.pdb
+C:\Users\tlech\source\repos\NoteTakingApp\obj\Debug\NoteTakingApp.exe
+C:\Users\tlech\source\repos\NoteTakingApp\obj\Debug\NoteTakingApp.pdb
